@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #61dafb;
+  animation:alternate-reverse 20s linear;
 }
 
 .App-logo {
