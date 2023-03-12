@@ -17,4 +17,3 @@ function Dean(){
     </div>
   )
 }
-export default App;
